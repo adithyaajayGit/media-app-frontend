@@ -1,1 +1,1 @@
-export const SERVER_URL= 'http://localhost:3000'
+export const SERVER_URL= 'https://media-app-backend-s95p.onrender.com'
