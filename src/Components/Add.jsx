@@ -8,7 +8,7 @@ import { uploadVideoAPI } from '../../Services/allAPI';
 
 const Add = ({Setuploadvideoresponse}) => {
   const [uploadVideo, setUploadVideo] = useState({ id: "", name: "", image: "", video: "" })
-  console.log(uploadVideo);
+  console.log(uploadVideo); 
 
 
 
